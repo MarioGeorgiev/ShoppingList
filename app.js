@@ -27,5 +27,3 @@ function addItem() {
     }
 }
 
-
-/* This is just to test Git Desktop*/
