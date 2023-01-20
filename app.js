@@ -26,3 +26,6 @@ function addItem() {
         return element;
     }
 }
+
+
+/* This is just to test Git Desktop*/
